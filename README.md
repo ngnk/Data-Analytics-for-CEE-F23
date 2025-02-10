@@ -1,6 +1,3 @@
-# Data-Analytics-for-CEE-F23
-Completed for a CEE Classes @ Georgia Tech 
-
 # Data Analytics in the Study of Pavement Deterioration
 
 ## Overview
