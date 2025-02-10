@@ -1,7 +1,7 @@
 # Data Analytics in the Study of Pavement Deterioration
 
 ## Overview
-This project analyzes and forecasts pavement deterioration using data analytics and machine learning models. The research was conducted as part of **CEE 4803: Data Analytics in Civil Engineering** and commissioned by the **Florida Department of Transportation (FDOT)**. The study integrates **pavement crack ratings, deterioration rates, and climate data** to optimize maintenance planning and resource allocation.
+This project analyzes and forecasts pavement deterioration using data analytics and machine learning models. The research was commissioned by the **Florida Department of Transportation (FDOT)**. The study integrates **pavement crack ratings, deterioration rates, and climate data** to optimize maintenance planning and resource allocation.
 
 ## Objectives
 - Develop a robust forecasting model for pavement conditions over a **5-year period**.
